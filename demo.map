@@ -15,7 +15,7 @@ MAP
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "C:\ms4w\Apache\htdocs\Turki\tmp"
+	IMAGEPATH "D:\ms4w\Apache\htdocs\Turki\tmp"
 	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
   
