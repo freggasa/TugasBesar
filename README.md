@@ -7,3 +7,4 @@ Anggota : </br>
 Fregga Septiaroli Alifrawanza</br>
 Hidayat Tulloh</br>
 Joko Afandi</br>
+Lulu Atikah</br>
