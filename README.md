@@ -4,4 +4,5 @@
 </br>
 </br>
 Anggota : </br>
-          Fregga Septiaroli Alifrawanza</br>
+Fregga Septiaroli Alifrawanza</br>
+Hidayat Tulloh</br>
