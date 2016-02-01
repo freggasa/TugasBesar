@@ -24,7 +24,7 @@ MAP ITASCA
     NAME DEMOLAYER
     TYPE POLYGON
     STATUS DEFAULT
-    DATA adana_turki
+    DATA adana_turkey_osm_polygon
 
     CLASS
        STYLE
