@@ -26,7 +26,7 @@ MAP ITASCA
     STATUS DEFAULT
     DATA adana_turki_osm_polygon
 
-    CLASS
+    
        STYLE
          OUTLINECOLOR 128 128 128
          COLOR 225 225 185
