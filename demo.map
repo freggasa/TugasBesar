@@ -24,7 +24,7 @@ MAP ITASCA
     NAME DEMOLAYER
     TYPE POLYGON
     STATUS DEFAULT
-    DATA adana_turki_osm_polygon
+    DATA seoul_south-korea_osm_polygon
 
     CLASS
        STYLE
