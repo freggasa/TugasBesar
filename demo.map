@@ -29,7 +29,7 @@ MAP ITASCA
     CLASS
        STYLE
          OUTLINECOLOR 128 128 128
-         COLOR 225 225 
+         COLOR 225 225 185
        END
     END
    
