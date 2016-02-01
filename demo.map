@@ -15,7 +15,7 @@ MAP ITASCA
   IMAGETYPE J
 
   WEB
-	TEMPLATE "map.html
+	TEMPLATE "map.html"
 	IMAGEPATH "C:\ms4w\Apache\htdocs\Turki\tmp"
 	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
