@@ -4,7 +4,7 @@
 </br>
 </br>
 Anggota : </br>
-<center> Fregga Septiaroli Alifrawanza</br> </center>
+<p center> Fregga Septiaroli Alifrawanza</br> </center>
 Hidayat Tulloh</br>
 Joko Afandi</br>
 Lulu Atikah</br>
