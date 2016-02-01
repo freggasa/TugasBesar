@@ -20,7 +20,7 @@ MAP ITASCA
 	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
   
-  L
+  LA
     NAME DEMOLAYER
     TYPE POLYGON
     STATUS DEFAULT
