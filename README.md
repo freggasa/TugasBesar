@@ -1,7 +1,7 @@
 # Tugas Besar SIG
 </br>
 <H1>SISTEM INFORMASI GEOGRAFIS</H1>
-  <H3>SEME
+  <H3>SEMES
 </br>
 </br>
 Anggota : </br>
