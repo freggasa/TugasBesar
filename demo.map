@@ -24,7 +24,7 @@ MAP ITASCA
     NAME DEMOLAYER
     TYPE POLYGON
     STATUS DEFAULT
-    DATA adana_turkey_osm_polygon  #tuliskan nama file
+    DATA adana_turkey_osm_polygon  #tuliskan nama file .shp
 
     CLASS
        STYLE
