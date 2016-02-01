@@ -8,7 +8,7 @@ MAP ITASCA
   STATUS ON
   SIZE 600 600
   EXTENT 35.2102 36.9484 35.4605 37.0691   #batasan koordinat yaitu min x, min y, max x, max y
-  UNITS METERS                           #satuan
+  UNITS METERS                             #satuan
   SHAPEPATH "data"
   IMAGECOLOR 255 255 255 
   
