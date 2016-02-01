@@ -9,5 +9,5 @@ Fregga Septiaroli Alifrawanza 1134037</br>
 HidayatTulloh 1134060</br>
 Joko Afandi 1134067</br>
 Lulu Atikah 1134022</br>
-M.Alvin Saleh 1134039</br>
+M. Alvin Saleh 1134039</br>
 
