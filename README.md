@@ -5,7 +5,7 @@
 </br>
 </br>
 Anggota : </br>
-Fregga Septiaroli Alifrawanza</br>
+Fregga Septiaroli Alifrawanza 1134037</br>
 HidayatTulloh</br>
 Joko Afandi</br>
 Lulu Atikah</br>
