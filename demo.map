@@ -3,7 +3,7 @@
 #
 
 
-MAP ITASCA
+MA ITASCA
   NAME 
   STATUS ON
   SIZE 600 600
@@ -31,7 +31,8 @@ MAP ITASCA
          OUTLINECOLOR 128 128 128
          COLOR 225 225 185
        END
-    END
+     END
+    
    
     METADATA
       WMS_TITLE "DEMO TAKEN FROM ITASCA"
