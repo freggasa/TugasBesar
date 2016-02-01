@@ -7,7 +7,7 @@
 Anggota : </br>
 Fregga Septiaroli Alifrawanza 1134037</br>
 HidayatTulloh 1134060</br>
-Joko Afandi</br>
+Joko Afandi 1134067</br>
 Lulu Atikah</br>
 M.Alvin Saleh</br>
 
