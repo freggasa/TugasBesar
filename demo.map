@@ -16,11 +16,11 @@ MAP ITASCA
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "C:\ms4w\Apache\htdocs\Seoul\tmp"
-	IMAGEURL "C:\ms4w\Apache\htdocs\Seoul\tmp"
+	IMAGEPATH "C:\ms4w\Apache\htdocs\Turki\tmp"
+	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
   
-  LAYER
+  LAYE
     NAME DEMOLAYER
     TYPE POLYGON
     STATUS DEFAULT
@@ -36,7 +36,7 @@ MAP ITASCA
     METADATA
       WMS_TITLE "DEMO TAKEN FROM ITASCA"
       WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
-      WMS_ "EPSG:26915"
+      WMS_SRS "EPSG:26915"
     END
   END
    
