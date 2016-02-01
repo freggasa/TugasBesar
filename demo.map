@@ -17,7 +17,7 @@ MAP ITASCA
   WEB
 	TEMPLATE "map.html"
 	IMAGEPATH "C:\ms4w\Apache\htdocs\Turki\tmp"
-	IMAGEURL "C:\ms4w\Apache\htdocs\Seoul\tmp"
+	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
   
   LAYER
