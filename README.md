@@ -1,4 +1,4 @@
-# Tugas BesarSIG
+# Tugas Besar SIG
 </br>
 <H1>SISTEM INFORMASI GEOGRAFIS</H1>
 </br>
