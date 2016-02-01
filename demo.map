@@ -16,7 +16,7 @@ MAP ITASCA
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "C:\ms4w\Apache\htdocs\Seoul\tmp"
+	IMAGEPATH "C:\ms4w\Apache\htdocs\Turki\tmp"
 	IMAGEURL "C:\ms4w\Apache\htdocs\Turki\tmp"
   END  
   
@@ -34,7 +34,7 @@ MAP ITASCA
     END
    
     METADATA
-      WMS_TITLE "DEMO TAKEN FROM IT"
+      WMS_TITLE "DEMO TAKEN FROM ITA"
       WMS_ABSTRACT "DEMO TAKEN FROM ITASCA"
       WMS_SRS "EPSG:26915"
     END
